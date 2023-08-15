@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #121212;
+}
+
+@layer components {
+  .active-button {
+    color: #fb6302;
+    background-color: #272727;
+    font-weight: 600;
+  }
+}
