@@ -1,6 +1,8 @@
 # Hacker News Redesign
 A front-end modernization of the Hacker News website using React + TailwindCSS.
 
+Currently deployed using Vercel, [view here](https://hn-modern.vercel.app/)
+
 ## Stack
 
  - React
@@ -15,6 +17,7 @@ This website will likely be re-iterated multiple times to explore other framewor
  - Custom API
  - Infinite Scroll / Pagination
  - More Search Categories
+ - TypeScript Migration
  - Refactoring
  - Tests
 
